@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://ec2-34-234-175-192.compute-1.amazonaws.com:8081/repository/SAMPLE-REL/</url>
+            <url>http://35.170.198.82:8081/repository/SAMPLE-REL/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://ec2-34-234-175-192.compute-1.amazonaws.com:8081/repository/SAMPLE-SNAP/</url>
+            <url>http://35.170.198.82:8081/repository/SAMPLE-SNAP/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
