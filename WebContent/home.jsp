@@ -7,7 +7,7 @@
 <title>Display</title>
 <style>
 table#nat{
-	width: 60%;
+	width: 50%;
 	background-color: #c48ec5;
 }
 </style>
